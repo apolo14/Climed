@@ -1,0 +1,7 @@
+{
+  "name": "Climed",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
